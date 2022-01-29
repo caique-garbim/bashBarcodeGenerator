@@ -2,6 +2,8 @@
 
 ![image](https://user-images.githubusercontent.com/76706456/151263011-b347fee9-a61b-47b4-abb9-703fe117c6e0.png)
 
+![barcode](https://user-images.githubusercontent.com/76706456/151645184-f4525503-adcf-4a0d-8d32-aabbd05039cc.png)
+
 Code-128 barcode generator.
 
 ### 📋 Requisitos | Requirements
